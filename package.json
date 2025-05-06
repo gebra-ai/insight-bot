@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://yourusername.github.io/dux/insight-bot",
+  "homepage": "https://gebra-ai.github.io/dux/insight-bot",
   "scripts": {
     "dev": "vite",
     "dev:port": "vite --port",
