@@ -15,7 +15,7 @@ export default defineConfig({
     assetsDir: 'assets'
   },
   // Add base path for GitHub Pages - replace 'dux/insight-bot' with your repository path
-  base: '/dux/insight-bot/',
+  base: '/insight-bot/',
   // Optimization settings
   optimizeDeps: {
     include: ['react', 'react-dom', 'react-router-dom'],
